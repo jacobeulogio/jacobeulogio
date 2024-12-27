@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Jacob
-- 👀 I’m interested in improving my skills in Python and SQL
-- 🌱 I’m currently learning advanced SQL and Python with focus on exploratory data analysis
+-  I’m interested in improving my skills in Python and SQL
+-  I’m currently learning advanced SQL and Python with focus on data analysis and data science
 
 <br />
 
