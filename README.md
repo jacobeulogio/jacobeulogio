@@ -8,7 +8,6 @@
 - [x] PostgreSQL
 - [x] Python
 - [x] Microsoft Excel 
-- [x] R
 
 <br />
 
