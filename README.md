@@ -1,21 +1,34 @@
-# 👋 Hi, I’m Jacob
--  I’m interested in improving my skills in Python and SQL
--  I’m currently learning advanced SQL and Python with focus on data analysis and data science
+# 👋 Jacob Eulogio Benitez  
+**Data Analyst | Data Engineer**  
+Currently diving deeper into advanced **SQL** and **Python**, with a strong focus on **data engineering**.
 
-<br />
+---
 
-### Languages and Data Analytics Tools:
-- [x] PostgreSQL
-- [x] Python
-- [x] Microsoft Excel 
+## 🧰 Languages & Data Tools  
+- ✅ **Python**  
+- ✅ **PostgreSQL**
 
-<br />
+---
 
-### Data Visualization Tools:
-- [x] Tableau
-- [x] Google Looker Studio
-- [x] Power BI
-<!---
-jacobeulogio/jacobeulogio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📊 Data Visualization  
+- ✅ **Google Looker Studio**  
+- ✅ **Apache Superset**  
+- ✅ **Matplotlib / Seaborn / Plotly (Python)**
+
+---
+
+## ⚙️ Data Orchestration  
+- ✅ **Apache Airflow**  
+- ✅ **Dagster**
+
+---
+
+## 📚 Currently Learning  
+- Advanced SQL optimization techniques  
+- Scalable data pipelines  
+- Cloud data platforms (e.g., GCP, AWS)
+
+---
+
+## 🚀 Projects  
+
