@@ -20,9 +20,10 @@ Currently diving deeper into advanced **SQL** and **Python**, with a strong focu
 
 ---
 
-## Data Orchestration  
+## ETL / Data Orchestration  
 - **Apache Airflow**  
 - **Dagster**
+- **DBT**
 
 ---
 
@@ -30,7 +31,8 @@ Currently diving deeper into advanced **SQL** and **Python**, with a strong focu
 - Advanced SQL optimization techniques  
 - Scalable data pipelines  
 - Cloud data platforms (e.g., GCP, AWS)
-- Kafka
+- Scala
+- Kafka and Spark
 
 ---
 
