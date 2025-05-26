@@ -6,12 +6,15 @@ Currently diving deeper into advanced **SQL** and **Python**, with a strong focu
 
 ## 🧰 Languages & Data Tools  
 - ✅ **Python**  
-- ✅ **PostgreSQL**
+- ✅ **SQL (SQL Server, Postgres)**
+- ✅ **BigQuery**
+- ✅ **DuckDB**
 
 ---
 
 ## 📊 Data Visualization  
-- ✅ **Google Looker Studio**  
+- ✅ **Google Looker Studio**
+- ✅ **Tableau**
 - ✅ **Apache Superset**  
 - ✅ **Matplotlib / Seaborn / Plotly (Python)**
 
