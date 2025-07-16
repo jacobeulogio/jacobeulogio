@@ -1,40 +1,16 @@
-# Jacob Eulogio Benitez  
-**Data Analyst | Data Engineer**  
-Currently diving deeper into advanced **SQL** and **Python**, with a strong focus on **data engineering**.
+## Jacob Eulogio Benitez  
+Data Engineer who loves optimizing my workflow, understanding how things work and exploring new tools.
 
+My profile includes a collection of configurations and tools I use in my daily workflow. Everything's always a work-in-progress.
+
+### Personal Dotfiles
 ---
-
-## Languages & Data Tools  
-- **Python**  
-- **SQL (SQL Server, Postgres)**
-- **BigQuery**
-- **DuckDB**
-
----
-
-## Data Visualization  
-- **Google Looker Studio**
-- **Tableau**
-- **Apache Superset**  
-- **Matplotlib / Seaborn / Plotly (Python)**
-
----
-
-## ETL / Data Orchestration  
-- **Apache Airflow**  
-- **Dagster**
-- **DBT**
-
----
-
-## Currently Learning  
-- Advanced SQL optimization techniques  
-- Scalable data pipelines  
-- Cloud data platforms (e.g., GCP, AWS)
-- Scala
-- Kafka and Spark
-
----
-
-## Projects  
-
+- Nixos configuration for personal use and work
+- Nvim config for my dev environment
+- Hyprland as my window manager
+- Waybar
+- Yazi as my file manager
+- Tmux config
+- Scripts I made for tmux and hyprland integration
+- Wezterm config
+- Zsh config
