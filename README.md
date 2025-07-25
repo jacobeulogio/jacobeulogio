@@ -11,8 +11,8 @@ My Digital Workspace & Dotfiles
   Here's a peek into my personal configs for my daily drivers:
 
 
-   * OS: NixOS [personal nixos repository](https://github.com/jacobeulogio/nixos)
-   * Window Manager: Hyprland in my [dotfiles repository](https://github.com/jacobeulogio/dotfiles)
+   * OS: NixOS [Nix Flake](https://github.com/jacobeulogio/nixos)
+   * Window Manager: Hyprland [dotfiles repository](https://github.com/jacobeulogio/dotfiles)
    * Editor: Neovim [nvim-dotfiles](https://github.com/jacobeulogio/nvim-dotfiles)
 
 
