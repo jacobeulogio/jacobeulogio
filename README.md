@@ -8,7 +8,7 @@ My profile includes a collection of configurations and tools I use in my daily w
 My Digital Workspace & Dotfiles
   ---
 
-  Here's a peek into my personal configs for my daily drivers:
+  Here's a peek into the configs I use for my daily workflow:
 
 
    * OS: NixOS [Nix Flake](https://github.com/jacobeulogio/nixos)
