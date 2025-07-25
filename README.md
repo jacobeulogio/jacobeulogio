@@ -6,7 +6,7 @@ My profile includes a collection of configurations and tools I use in my daily w
 My Digital Workspace & Dotfiles
   ---
 
-  Here's a peek into my setup:
+  Here's a peek into my personal configs for my daily drivers:
 
 
    * OS: NixOS [personal nixos repository](https://github.com/jacobeulogio/nixos)
